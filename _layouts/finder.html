@@ -11,9 +11,11 @@
 	</div>
     <ul>
         {% for page in site.pages %}
-          <li>
-            <a href="https://bcneagles.github.io/QuidNotes/{{ page.path }}">{{ page.title }}</a>
-          </li>
+            {% if file.extname == ".jpg" and file.url contains canonical_url -%}
+            <li>
+                <a href="https://bcneagles.github.io/QuidNotes/{{ page.path }}">{{ page.title }}</a>
+            </li>
+          {%- endif %}
         {% endfor %}
     </ul>      
     <p>HELLO WORLD</p>
