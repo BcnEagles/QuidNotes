@@ -10,11 +10,11 @@
 		</div>
 	</div>
     <ul>
-        {% directory path: ./articles exclude: private %}
+        {% for page in site.pages %}
           <li>
-            <a href="{{ file.url }}">{{ file.name }}</a>
+            <a href="{{ page.url }}">{{ page.name }}</a>
           </li>
-        {% enddirectory %}
+        {% endfor %}
     </ul>      
     <p>HELLO WORLD</p>
 </body>
