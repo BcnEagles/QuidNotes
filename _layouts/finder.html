@@ -9,6 +9,11 @@
 			{{ content }}
 		</div>
 	</div>
+    {% for file in ./articles %}
+        {% if file.extname == ".md" -%}
+        * [{{ file.path }}]({{ site.baseurl }}{{ file.path }})
+        {%- endif %}
+    {% endfor %}
     <p>HELLO WORLD</p>
 </body>
 </html>
