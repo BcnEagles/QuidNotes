@@ -2,7 +2,7 @@
 author: Eduardo Vázquez Espín
 date: July 5th 2022
 title: Presión
-layout: finder
+layout: default
 ---
 
 # Presión

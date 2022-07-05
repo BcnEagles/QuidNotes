@@ -2,7 +2,7 @@
 author: Eduardo Vázquez Espín
 date: July 5th 2022
 title: Push
-layout: finder
+layout: default
 ---
 
 # Push

@@ -9,11 +9,13 @@
 			{{ content }}
 		</div>
 	</div>
-    {% for file in ./articles %}
-        {% if file.extname == ".md" -%}
-        * [{{ file.path }}]({{ site.baseurl }}{{ file.path }})
-        {%- endif %}
-    {% endfor %}
+    <ul>
+        {% directory path: ./articles exclude: private %}
+          <li>
+            <a href="{{ file.url }}">{{ file.name }}</a>
+          </li>
+        {% enddirectory %}
+    </ul>      
     <p>HELLO WORLD</p>
 </body>
 </html>
