@@ -11,7 +11,7 @@
 	</div>
     <ul>
         {% for page in site.pages %}
-            {% if file.extname == ".jpg" and file.url contains canonical_url -%}
+            {% if file.extname == ".md" and file.url contains canonical_url -%}
             <li>
                 <a href="https://bcneagles.github.io/QuidNotes/{{ page.path }}">{{ page.title }}</a>
             </li>
