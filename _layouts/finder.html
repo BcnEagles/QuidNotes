@@ -12,8 +12,10 @@
     <ul>
         {% for page in site.pages %}
             <li>
-                {{ "Take my protein pills and put my helmet on" | replace: "my", "your" }}
-                <a href= {{ "https://bcneagles.github.io/QuidNotes/{{ page.path }} | replace: ".md", ".html" }}>{{ page.title }}</a>
+                {% assign pagepath = page.path %}
+                {% assign result = "https://bcneagles.github.io/QuidNotes/" | append: pagepath %}
+                {% assign final = result | replace ".md", ".html" %}
+                <a href= final>{{ page.title }}</a>
             </li>
         {% endfor %}
     </ul>      
