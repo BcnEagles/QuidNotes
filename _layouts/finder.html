@@ -15,7 +15,7 @@
                 {% assign pagepath = page.path %}
                 {% assign result = "https://bcneagles.github.io/QuidNotes/" | append: pagepath %}
                 {% assign final = result | replace ".md", ".html" %}
-                <a href= final>{{ page.title }}</a>
+                <a href={{ final }}>{{ page.title }}</a>
             </li>
         {% endfor %}
     </ul>      
