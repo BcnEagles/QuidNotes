@@ -8,20 +8,20 @@
 	<div class="container">
 		<div class="content">
 			{{ content }}
+            <ul>
+                {% for page in site.pages %}
+                    {% if page.path contains '.md' and page.path contains 'eng/' %}
+                        {% if page.path contains 'index.md' %}
+                        {% else %}
+                            <li>
+                                {% assign pagepath = "https://bcneagles.github.io/QuidNotes/" | append: page.path %}
+                                <a href={{ pagepath | replace: '.md', '.html' }}>{{ page.title }}</a>
+                            </li>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </ul> 
 		</div>
 	</div>
-    <ul>
-        {% for page in site.pages %}
-            {% if page.path contains '.md' and page.path contains 'eng/' %}
-                {% if page.path contains 'index.md' %}
-                {% else %}
-                    <li>
-                        {% assign pagepath = "https://bcneagles.github.io/QuidNotes/" | append: page.path %}
-                        <a href={{ pagepath | replace: '.md', '.html' }}>{{ page.title }}</a>
-                    </li>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-    </ul>      
 </body>
 </html>
