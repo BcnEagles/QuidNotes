@@ -15,11 +15,11 @@ Cuando se golpea a todos los Beaters defensores se suele gritar “No Bludger!�
 
 Su uso más general es cuando el equipo atacante ha intentado limpiar a los Beater defensores y han fallado. En estos casos las bludgers se suelen ir bien lejos (dado que al limpiar en ataque se tiran con mayor fuerza que en el caso general) así que da oportunidad a la defensa a recuperar BC si no la tenían y a presionar libres de Beater atacantes durante unos segundos.
 
-[Ejemplo 1](https://www.youtube.com/watch?v=Po71feb9iUM&t=260s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Po71feb9iUM?clip=Ugkx4yxE684A1pF0DLFosiNzSMI-oH0EEN3k&amp;clipt=EKDvDxjIshE" title="Presión Defensiva - Caso Ideal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 También es posible forzar un Push desde la defensa mediante una defensa muy agresiva. El caso más típico es una defensa vertical con Bludger Control donde el Beater punta intenta golpear al Beater atacante antes que este tenga oportunidad de hacer nada. Luego puede coger la bludger que el Beater atacante deje dejando así al otro Beater atacante a buscar la bludger que ha rebotado en su compañero (por supuesto muchos otros casos se pueden dar pero, mientras el beater atacante con bludger sea golpeado y el defensor no, generalmente se puede realizar un push).
 
-[Ejemplo 2](https://www.youtube.com/watch?v=Po71feb9iUM&t=320s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Po71feb9iUM?clip=UgkxxnOgqKHFg8H1Vw1OJ9RnycTpvNVYCSxV&amp;clipt=EIDEExiohxU" title="Presión Defensiva - Forzar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ¿Como se realiza una Presión?
 
@@ -36,21 +36,16 @@ Las ideas principales de una respuesta efectiva al Push son: jugar abiertos y de
 
 La mejor respuesta a un Push es un pase al troll. Sin embargo dejar al troll desprotegido es un flagrante error de la defensa, por lo que no será el caso típico. Es lo que suele pasar cuando el keeper defensor ha decidido NO salir de sus aros para hacer la 100% personal, y/o si ambos beaters defensores han subido a forzar el pase (Basta con que suba 1 beater!).
 
-[Ejemplo 3](https://www.youtube.com/watch?v=Po71feb9iUM&t=320s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Po71feb9iUM?clip=UgkxxnOgqKHFg8H1Vw1OJ9RnycTpvNVYCSxV&amp;clipt=EIDEExiohxU" title="Presión Defensiva - Pase al Troll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pase a aros: La jugada más estable y conservadora, aunque requiere tener el reset disponible. Aún así, si se ve que el pase al troll es infactible se debería tomar esta opción sin dudar. También requiere que algún chaser haya retrocedido hasta aros, por lo que hay que establecer previamente qué chaser tomará el rol de escolta en ataque, que debería bajar hasta aros a la mínima señal de Push. (Otras funciones de este rol: realizar blocks, coger Manos del QC, ser un posible pase en caso de peligro)
 
-[Ejemplo 4](https://www.youtube.com/watch?v=Po71feb9iUM&t=1370s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Po71feb9iUM?clip=Ugkxqm5R3h8u6flzxL0H3j3YEGnn7q6gX-84&amp;clipt=EJDPUxi4klU" title="Presión Defensiva - Pase a la Keeper Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Cruzar corriendo: La tercera mejor jugada, que también requiere de reset. En caso que tanto el troll como el pase a aros sean infactibles se debería tomar esta alternativa sin dudar (dudar implica ser golpeado y perder quaffle, y perder quaffle trae vergüenza sobre tu familia y tu vaca). Esta alternativa es estrictamente peor que el pase aros ya que solo se puede cruzar andando una de las dos líneas de Reset.
 
-[Ejemplo 5](https://www.youtube.com/watch?v=ndr7iEyZafs&t=1240s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndr7iEyZafs?clip=UgkxxMDZf4f8zRQtBHaTwJosIZCL-2Me-PHv&amp;clipt=EMDXSxjg80w" title="Presión Defensiva - Usando el Reset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pase abierto: Generalmente será un pase muy difícil, ya que ese chaser debería estar defendido, y el beater defensor puede fintarte e ir a por el receptor. Pero si se consigue hacer un pase suicida puede ser una opción más viable.
 
-[Ejemplo 6](https://www.youtube.com/watch?v=Po71feb9iUM&t=1405s)
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=Po71feb9iUM&t=1405s" title="Ejemplo 1"
-	frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Po71feb9iUM?clip=Ugkx9lup7Ys92_goljHvvhpHprztKJJHhxVJ&amp;clipt=EMjgVRjg1VY" title="Presión Defensiva - Pase Suicida" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
