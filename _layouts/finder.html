@@ -12,10 +12,12 @@
 	</div>
     <ul>
         {% for page in site.pages %}
+            {% if page.path contains '.md' %}
             <li>
                 {% assign pagepath = "https://bcneagles.github.io/QuidNotes/" | append: page.path %}
                 <a href={{ pagepath | replace: '.md', '.html' }}>{{ page.title }}</a>
             </li>
+            {% endif %}
         {% endfor %}
     </ul>      
     <p>HELLO WORLD</p>
