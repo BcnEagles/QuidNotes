@@ -50,6 +50,7 @@ Pase abierto: Generalmente será un pase muy difícil, ya que ese chaser deberí
 
 [Ejemplo 6](https://www.youtube.com/watch?v=Po71feb9iUM&t=1405s)
 
-<video width="400" height="350" controls="">
-    <source src="https://www.youtube.com/watch?v=Po71feb9iUM&t=1405s" type="video" />
-</video>
+<div class="container">
+	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Po71feb9iUM&t=1405s" title="Ejemplo 1"
+	frameborder="0" allowfullscreen></iframe>
+</div>
