@@ -14,7 +14,7 @@
         {% for page in site.pages %}
             <li>
                 {% assign pagepath = "https://bcneagles.github.io/QuidNotes/" | append: page.path %}
-                <a href={{ pagepath | replace '.md', '.html' }}>{{ page.title }}</a>
+                <a href={{ pagepath | replace: '.md', '.html' }}>{{ page.title }}</a>
             </li>
         {% endfor %}
     </ul>      
