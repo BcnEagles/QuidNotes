@@ -1,6 +1,6 @@
 ---
 layout: default
-# title: Markdown Guidelines
+title: Markdown Guidelines
 author: BCNGeeks
 date: 20th June 2022
 ---

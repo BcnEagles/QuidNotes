@@ -1,6 +1,6 @@
 ---
 layout: default
-# title: How To Pull Request
+title: How To Pull Request
 author: BCNGeeks
 date: 22nd June 2022
 ---
