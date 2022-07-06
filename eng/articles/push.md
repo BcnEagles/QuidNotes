@@ -41,6 +41,7 @@ The best answer to a Push is passing to the troll. However this will only be pos
 Passing the quaffle back to your own hoops: This is the most stable play, but it requires both having the reset available and that one chaser has run back to hoops. This should be done by the support, who, at the mere sight of a Push, should start running back as soon as possible.
 
 [Example 4](https://www.youtube.com/watch?v=Po71feb9iUM&t=1370s)
+
 Just run back to your side of the field: This play, which requires the use of the reset, is the standard reaction to a push. It doesn’t open as much space - since you can only cross one line by running, whereas you can cross both lines by passing - as the previous option, but it’s easier to do.
 
 [Example 5](https://www.youtube.com/watch?v=ndr7iEyZafs&t=1240s)

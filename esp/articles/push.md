@@ -49,3 +49,7 @@ Cruzar corriendo: La tercera mejor jugada, que también requiere de reset. En ca
 Pase abierto: Generalmente será un pase muy difícil, ya que ese chaser debería estar defendido, y el beater defensor puede fintarte e ir a por el receptor. Pero si se consigue hacer un pase suicida puede ser una opción más viable.
 
 [Ejemplo 6](https://www.youtube.com/watch?v=Po71feb9iUM&t=1405s)
+
+<video width="400" height="350" controls="">
+    <source src="https://www.youtube.com/watch?v=Po71feb9iUM&t=1405s" type="video" />
+</video>
