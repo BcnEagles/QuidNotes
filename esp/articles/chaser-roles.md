@@ -55,6 +55,8 @@ Las defensas de chasers pueden (deben) situarse en una mezcla de defensa individ
 
   Un portero y el resto de jugadores en la línea del área de keeper (generalmente el keeper hace de punta).
 
+![Posiciones Defensa](../../img/defensa.png)
+
 ## Ataque
 
 ### Roles
@@ -78,3 +80,5 @@ Las defensas de chasers pueden (deben) situarse en una mezcla de defensa individ
 5- **Gnomo** 
 
   Tipo de troll que se sitúa en un aro enemigo (generalmente el pequeño, pero se puede invertir) para recibir y marcar. Actúa como un cuarto aro, aunque tmb puede realizar un bloqueo al portero enemigo.
+
+![Posiciones Ataque](../../img/ataque.png)

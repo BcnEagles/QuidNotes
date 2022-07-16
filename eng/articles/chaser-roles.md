@@ -56,6 +56,8 @@ Chaser defenses can (should) be a mix of man-to-man defense and zone defense, si
   
   One goalkeeper and the rest of chasers make a T shape by placing themselves in the keeper zone line - while usually having the keeper as a point defender. This defense - while being very closed and weak to good throwers - makes that your point defender is immune to beaters, so having a good tackler will make it almost impossible for the enemy to penetrate the area.
 
+![Defense Positions](../../img/defense.png)
+
 ## Offense
 
 ### Roles
@@ -79,3 +81,5 @@ Chaser defenses can (should) be a mix of man-to-man defense and zone defense, si
 5- **Gnome** (Gnomo) 
 
   situated in a hoop (generally the left small one, but not necessarily) ready to receive and score. Acts as a kind of 4th hoop, but can also pick the goalkeeper. Can play full time as a gnome, but also a wing or a troll can change positions during a penetration and go stand the opposing hoop from where the quaffle carrier is penetrating, thus offering one extra option.
+
+  ![Attack Positions](../../img/attack.png)
